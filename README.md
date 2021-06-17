@@ -1,2 +1,2 @@
 # Restaurant App using Angular
-This is a website made for a restaurant. 
+This is a website made for a restaurant. It contains the menu of the restaurant, information about people associated with the restaurant and form to login, give feedback etc.
